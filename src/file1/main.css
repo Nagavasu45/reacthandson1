@@ -1,0 +1,39 @@
+
+    
+.sty1{
+    text-shadow:5px 2px aqua ;
+    margin-bottom: 70px;
+  }
+  .sty2{
+    height: 200px;
+    width: 400px;
+    background-color: aqua;
+    border: 5px solid black;
+    
+    border-radius: 10%;
+    text-align: center;
+  }
+  .sty3{
+    position:'relative';
+    height:100%;
+  }
+  .sty4{
+    position: absolute;
+    top: 300px;
+    left: 225px;
+  }
+  .sty5{
+    position: absolute;
+    top: 300px;
+    left: 775px;
+  }
+button{
+    
+    height: 50px;
+    border: 2px solid black;
+   
+    border-radius: 50px; 
+    margin-right: 5%;
+    margin-left: 5%;
+    background-color: rgb(183, 240, 221);
+}
